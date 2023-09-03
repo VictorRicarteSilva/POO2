@@ -3,4 +3,4 @@
 
 Repositório com o objetivo de deixar armazenado os exercícios propostos na matéria de programação orientada a objetos 2.
 
-Desing patterns: Factory e Singleton implementados;
+Desing patterns: Factory, Singleton e Decorator implementados;
