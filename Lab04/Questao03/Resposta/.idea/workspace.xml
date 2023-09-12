@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bddd119-2c5c-48f9-b66b-68f35a4b6482" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Questao01/Resposta/Resposta.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Questao01/Resposta/src/models/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Questao01/Resposta/src/models/Pato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Questao01/Resposta/src/models/Pavao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Questao01/Resposta/src/models/adapter/AdapterPavao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Questao02/Resposta/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Questao02/Resposta/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Questao02/Resposta/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Questao02/Resposta/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Questao02/Resposta/Resposta.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Questao02/Resposta/src/models/CalculadoraAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Questao02/Resposta/src/models/CalculadoraBinaria.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2VJeUYddPWokpPUVEsjLYaNvPug" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "onboarding.tips.debug.path": "D:/Main/POO2/Lab04/Questao03/Resposta/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bddd119-2c5c-48f9-b66b-68f35a4b6482" name="Changes" comment="" />
+      <created>1694558628685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694558628685</updated>
+      <workItem from="1694558629710" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
